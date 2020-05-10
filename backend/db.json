@@ -1,17 +1,24 @@
 {
-    "users": [{
-        "id": 1,
-        "name": "AECIO FLAVIO CRUZ DA SILVA",
-        "email": "aeciofcs@gmail.com"
+  "users": [
+    {
+      "id": 1,
+      "name": "AECIO FLAVIO CRUZ DA SILVA",
+      "email": "aeciofcs@gmail.com"
     },
     {
-        "id": 2,
-        "name": "ANA PATRICIA NUNES",
-        "email": "anapatrician@gmail.com"
+      "id": 2,
+      "name": "ANA PATRICIA NUNES",
+      "email": "anapatrician@gmail.com"
     },
     {
-        "id": 3,
-        "name": "ANNY VITORIA NUNES",
-        "email": "annyvitorianc@gmail.com"
-    }]
+      "id": 3,
+      "name": "ANNY VITORIA NUNES",
+      "email": "annyvitorianc@gmail.com"
+    },
+    {
+      "name": "Andrey Vitor",
+      "email": "andrey@gmail.com",
+      "id": 4
+    }
+  ]
 }
